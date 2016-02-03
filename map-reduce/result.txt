@@ -1,0 +1,3 @@
+bigram 216
+monograms 217
+trigram 215
